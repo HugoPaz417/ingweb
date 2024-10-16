@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.36.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/1/ape-semana14-ape-semana14-grupo_ape-semana6-3/EjemploBD/lib/sqlite-jdbc-3.36.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
